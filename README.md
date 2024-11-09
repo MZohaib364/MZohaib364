@@ -6,7 +6,7 @@
 
 <div align="center">
     <h2>🚀 About Me</h2>
-    <p>I'm Muhammad Zohaib, an aspiring AI Engineer and a BS Artificial Intelligence student. I'm passionate about advancing my skills in NLP, machine learning, and data science. My journey includes hands-on experiences in developing AI models, creating software solutions, and contributing to research. As a quick learner, I constantly seek new challenges that allow me to grow and innovate in the field of AI.</p>
+    <p>I'm Muhammad Zohaib, an aspiring AI Engineer and a BS Artificial Intelligence student. I'm NLP, ML, and Data Science practicioner. Currently, I am exploring Gen AI. My journey includes hands-on experiences in developing AI models, creating software solutions, and contributing to research. As a quick learner, I constantly seek new challenges that allow me to grow and innovate in the field of AI.</p>
 </div>
 
 <h2 align="center" class="section-heading">💻 Programming Languages</h2>
