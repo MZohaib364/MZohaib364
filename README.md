@@ -9,18 +9,6 @@
     <p>I'm Muhammad Zohaib, an aspiring AI Engineer and a BS Artificial Intelligence student. I'm passionate about advancing my skills in NLP, machine learning, and data science. My journey includes hands-on experiences in developing AI models, creating software solutions, and contributing to research. As a quick learner, I constantly seek new challenges that allow me to grow and innovate in the field of AI.</p>
 </div>
 
-<div align="center">
-<h2 align="center" class="section-heading">🌐 Connect with Me</h2>
-<p>If you'd like to connect, feel free to reach out on LinkedIn or check out my projects here on GitHub. I'm always open to discussions, collaborations, and knowledge-sharing on the latest in AI, software engineering, and technology!</p>
-<div align="center">
-  <a href="https://www.linkedin.com/in/muhammad-zohaib-a1b027280/">
-    <img src="https://img.shields.io/badge/Muhammad%20Zohaib-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-<a href="https://github.com/MZohaib364" target="_blank">
-    <img src="https://img.shields.io/badge/View%20on%20GitHub-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
-</a>
-</div>
-
 <h2 align="center" class="section-heading">💻 Programming Languages</h2>
 <p>I have developed proficiency in several programming languages, each contributing to my skill set in building solutions for AI and software development challenges:</p>
 <div align="center">
@@ -49,5 +37,17 @@
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
+</div>
 
+
+<div align="center">
+<h2 align="center" class="section-heading">🌐 Connect with Me</h2>
+<p>If you'd like to connect, feel free to reach out on LinkedIn or check out my projects here on GitHub. I'm always open to discussions, collaborations, and knowledge-sharing on the latest in AI, software engineering, and technology!</p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/muhammad-zohaib-a1b027280/">
+    <img src="https://img.shields.io/badge/Muhammad%20Zohaib-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+<a href="https://github.com/MZohaib364" target="_blank">
+    <img src="https://img.shields.io/badge/View%20on%20GitHub-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
+</a>
 </div>
